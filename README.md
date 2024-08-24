@@ -1,4 +1,4 @@
-![Logo](https://your-logo-url-here.com/logo.png)
+![Logo](https://imgs.search.brave.com/gmAffAWh82C_GRIasROdyodDga4AoHc-joFVL2nKxZE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMudHJ5aGFja21l/LmNvbS9pbWcvcGF0/aHMvcmVkdGVhbWlu/Zy5zdmc)
 
 # Hi 👋, I'm xitzhacks
 ### Red Teamer | Security Reseacher  | OSINT 
@@ -15,7 +15,7 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-blue)](https://twitter.com/xitzhacks)
 
 ## Blogs 
-- [YourBlog ](https://xitzhacks.42web.io)
+- [xitzhacks ](https://xitzhacks.42web.io)
 
 ## Languages and Tools:
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=Bootstrap)
