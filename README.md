@@ -3,10 +3,10 @@
 # Hi 👋, I'm xitzhacks
 ### Red Teamer | Security Reseacher  | OSINT 
 
-- 🔭 I’m currently working on xyz as a cybersecurity analyst 
+- 🔭 I’m currently working freelancer 
 - 🌱 I’m currently learning Exploring various fields and honing skills in Red Teaming methodologies.
-- 📝 I regularly write articles on [The Cyber Delta](https://thecyberdelta.org/)
-- 💬 Ask me about  Dark web , CTF Challenges, Cryptography & Encryption Methods, and Red Teaming Strategies.
+- 📝 I regularly write articles on medium.com 
+- 💬 Ask me about  Dark web , CTF Challenges, Osint , Android Pentesting , API , Web  and Red Teaming Strategies.
 - 📫 How to reach me: xitzhacks@gmail.com
 - ⚡ Fun fact: I chase vulnerabilities for fun 😉
 
