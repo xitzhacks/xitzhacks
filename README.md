@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Exploring various fields and honing skills in Red Teaming methodologies.
 - 📝 I regularly write articles on medium.com 
 - 💬 Ask me about  Dark web , CTF Challenges, Osint , Android Pentesting , API , Web  and Red Teaming Strategies.
-- 📫 How to reach me: xitzhacks@gmail.com
+- 📫 How to reach me: xitzhacks@proton.me
 - ⚡ Fun fact: I chase vulnerabilities for fun 😉
 
 ## Connect with me:
