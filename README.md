@@ -15,7 +15,7 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-blue)](https://twitter.com/xitzhacks)
 
 ## Blogs 
-- [xitzhacks ](https://xitzhacks.42web.io)
+- [xitzhacks ](https://xitzhacks.github.io)
 
 ## Languages and Tools:
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=Bootstrap)
